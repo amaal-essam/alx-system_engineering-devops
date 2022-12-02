@@ -1,7 +1,7 @@
 shell permissions descripe
-# 0-iam_betty
+#0i-am_betty
 The script switches the current user to the a user called betty by using the su (Switch User)
-# 1-who_am_i
+#1-who_am_i
 script that prints the effective username of the current use
   whoami
 #2-groups
