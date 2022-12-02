@@ -1,5 +1,4 @@
 shell permissions descripe
-
 # 0-iam_betty
 The script switches the current user to the a user called betty by using the su (Switch User)
 # 1-who_am_i
