@@ -1,2 +1,2 @@
 #!/bin/bash
-fint -type f -empty -print| ls -a| paste -d '\n'
+fint -type f -empty -print|ls -a
